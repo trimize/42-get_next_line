@@ -5,7 +5,7 @@ Creation of one or multiple file(s) reader in c.
 ## Installation
 
 ```bash
-https://github.com/trimize/42-get_next_line.git && cd 42-get_next_line
+git clone https://github.com/trimize/42-get_next_line.git && cd 42-get_next_line
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ For multiple files :
 make bonus
 ```
 
-This will compile everything for ft_printf then include ft_printf's header in your file.
+This will compile everything for get_next_line then include get_next_line's header in your file.
 
 ```c
 import "path/to/get_next_line(_bonus if multiple files).h"
