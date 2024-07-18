@@ -1,8 +1,11 @@
 # ft_printf
 
+
 Creation of one or multiple file(s) reader in c.
 
+
 ## Installation
+
 
 ```bash
 git clone https://github.com/trimize/42-get_next_line.git && cd 42-get_next_line
@@ -16,7 +19,9 @@ To read only one file :
 make
 ```
 
+
 For multiple files : 
+
 
 ```bash
 make bonus
@@ -34,7 +39,9 @@ str = get_next_line(your_fd);
 
 ```
 
+
 Compiling your file :
+
 
 For one file :
 
