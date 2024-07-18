@@ -1,4 +1,4 @@
-# ft_printf
+# get_next_line
 
 
 Creation of one or multiple file(s) reader in c.
